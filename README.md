@@ -1,7 +1,7 @@
 # Self-Quantified-NLP-Project
 
 ## Project Description :
-#### The project is about finding revelent insights from Self Quantified researchs scripts using Natural Language Processing. I did Topic Modeling with LDA Model to find informative topics from the texts.
+#### This project is about finding revelent insights from Self Quantified researchs scripts using Natural Language Processing. I did Topic Modeling with LDA Model to find informative topics from the texts.
 
 ## Instalation Guide : 
 #### For Running This code you will need to download this libraries using pip install in your virtual environnement.  You should write it like this :        $ python -m pip --version
